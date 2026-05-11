@@ -91,11 +91,9 @@ function removeFromSaved(art: number) {
 												@click.prevent="removeFromSaved(item.product.art)"
 												aria-label="Удалить из сохранённых"
 											>
-												<NuxtImg
-													src="images/interface/backet-icon.svg"
-													class="saved-item-btn-icon"
-													alt=""
-												/>
+												<svg width="20" height="22" viewBox="0 0 20 22" fill="none" xmlns="http://www.w3.org/2000/svg" class="saved-item-btn-icon">
+													<path d="M12.25 8.77778V16.5556M7.75 8.77778V16.5556M3.25 4.33333V17.4444C3.25 18.689 3.25 19.3109 3.49524 19.7862C3.71095 20.2044 4.05491 20.545 4.47827 20.758C4.9591 21 5.58887 21 6.84652 21H13.1535C14.4111 21 15.04 21 15.5208 20.758C15.9442 20.545 16.2893 20.2044 16.505 19.7862C16.75 19.3113 16.75 18.69 16.75 17.4479V4.33333M3.25 4.33333H5.5M3.25 4.33333H1M5.5 4.33333H14.5M5.5 4.33333C5.5 3.29791 5.5 2.78045 5.67127 2.37207C5.89963 1.82756 6.33736 1.3947 6.88867 1.16916C7.30216 1 7.82663 1 8.875 1H11.125C12.1734 1 12.6976 1 13.111 1.16916C13.6624 1.3947 14.1003 1.82756 14.3286 2.37207C14.4999 2.78045 14.5 3.29791 14.5 4.33333M14.5 4.33333H16.75M16.75 4.33333H19" stroke="#0D160F" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+												</svg>
 											</button>
 										</div>
 									</div>
