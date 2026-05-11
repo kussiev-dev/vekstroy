@@ -145,13 +145,13 @@ const thumbnailsConfig = {
 									:class="{ active: i === currentSlide }"
 									@click="slideTo(i)"
 								>
-									<img :src="image" />
+									<NuxtImg :src="image" />
 								</div>
 							</div>
 
 							<!-- main image -->
 							<div class="product-main">
-								<img :src="item.images[currentSlide]" />
+								<NuxtImg :src="item.images[currentSlide]" />
 							</div>
 						</div>
 

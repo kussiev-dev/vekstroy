@@ -109,7 +109,7 @@ function removeSelectedItems() {
 								aria-label="Удалить выбранные товары"
 							>
 								<NuxtImg
-									src="/images/Interface/backet-icon.svg"
+									src="images/interface/backet-icon.svg"
 									class="cart-list-header-remove-icon"
 									alt=""
 								/>
@@ -131,7 +131,7 @@ function removeSelectedItems() {
 										/>
 										<span class="cart-item-checkbox-icon"></span>
 									</label>
-									<img
+									<NuxtImg
 										:src="item.product.images[0]"
 										class="cart-item-img"
 										alt=""
@@ -202,7 +202,7 @@ function removeSelectedItems() {
 													aria-label="Удалить из корзины"
 												>
 													<NuxtImg
-														src="/images/Interface/backet-icon.svg"
+														src="images/interface/backet-icon.svg"
 														class="cart-item-content-right-btn-icon"
 														alt=""
 													/>

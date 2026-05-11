@@ -59,7 +59,7 @@ function removeFromSaved(art: number) {
 								class="saved-item"
 							>
 								<div class="saved-item-img-wrap">
-									<img
+									<NuxtImg
 										:src="item.product.images[0]"
 										class="saved-item-img"
 										alt=""
@@ -92,7 +92,7 @@ function removeFromSaved(art: number) {
 												aria-label="Удалить из сохранённых"
 											>
 												<NuxtImg
-													src="/images/Interface/backet-icon.svg"
+													src="images/interface/backet-icon.svg"
 													class="saved-item-btn-icon"
 													alt=""
 												/>
