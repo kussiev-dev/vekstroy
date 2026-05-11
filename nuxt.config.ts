@@ -8,4 +8,12 @@ export default defineNuxtConfig({
     "@pinia/nuxt",
   ],
   css: ["~/assets/styles/style.scss"],
+  app: {
+    baseURL: "/vekstroy/",
+  },
+  nitro: {
+    prerender: {
+      crawlLinks: true,
+    },
+  },
 });
