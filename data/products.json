@@ -1,0 +1,632 @@
+[
+	{
+		"id": 1,
+		"images": [
+			"/images/product-1/main.png",
+			"/images/product-1/1.png",
+			"/images/product-1/2.png",
+			"/images/product-1/3.png"
+		],
+		"art": 100001,
+		"name": "Кирпич 1",
+		"price": 1250,
+		"description": "Кирпич керамический полнотелый рядовой. Стандартный размер 250×120×65 мм.",
+		"shortDescription": "Кирпич керамический полнотелый рядовой.",
+		"catalogId": 1,
+		"stock": {
+			"Назрань-1": true,
+			"Назрань-2": true,
+			"Карабулак": false,
+			"Магас": false
+		}
+	},
+	{
+		"id": 2,
+		"images": [
+			"/images/product-2/main.png",
+			"/images/product-2/1.png",
+			"/images/product-2/2.png",
+			"/images/product-2/3.png"
+		],
+		"art": 100002,
+		"name": "Кирпич 2",
+		"price": 1890,
+		"description": "Кирпич керамический пустотелый лицевой. Отличные теплоизоляционные свойства.",
+		"shortDescription": "Кирпич керамический пустотелый лицевой.",
+		"catalogId": 1,
+		"stock": {
+			"Назрань-1": false,
+			"Назрань-2": true,
+			"Карабулак": true,
+			"Магас": false
+		}
+	},
+	{
+		"id": 3,
+		"images": [
+			"/images/product-3/main.png",
+			"/images/product-3/1.png",
+			"/images/product-3/2.png",
+			"/images/product-3/3.png"
+		],
+		"art": 100003,
+		"name": "Кирпич 3",
+		"price": 750,
+		"description": "Кирпич строительный рядовой. Экономичный вариант для черновой кладки.",
+		"shortDescription": "Кирпич строительный рядовой.",
+		"catalogId": 1,
+		"stock": {
+			"Назрань-1": true,
+			"Назрань-2": false,
+			"Карабулак": false,
+			"Магас": true
+		}
+	},
+	{
+		"id": 4,
+		"images": [
+			"/images/product-4/main.png",
+			"/images/product-4/1.png",
+			"/images/product-4/2.png",
+			"/images/product-4/3.png"
+		],
+		"art": 100004,
+		"name": "Кирпич 4",
+		"price": 2450,
+		"description": "Кирпич клинкерный фасадный. Повышенная прочность и морозостойкость.",
+		"shortDescription": "Кирпич клинкерный фасадный.",
+		"catalogId": 1,
+		"stock": {
+			"Назрань-1": true,
+			"Назрань-2": true,
+			"Карабулак": true,
+			"Магас": false
+		}
+	},
+	{
+		"id": 5,
+		"images": [
+			"/images/product-5/main.png",
+			"/images/product-5/1.png",
+			"/images/product-5/2.png",
+			"/images/product-5/3.png"
+		],
+		"art": 100005,
+		"name": "Кирпич 5",
+		"price": 1650,
+		"description": "Кирпич керамический полуторный. Ускорение кладки за счёт увеличенной высоты.",
+		"shortDescription": "Кирпич керамический полуторный.",
+		"catalogId": 1,
+		"stock": {
+			"Назрань-1": false,
+			"Назрань-2": false,
+			"Карабулак": true,
+			"Магас": true
+		}
+	},
+	{
+		"id": 6,
+		"images": [
+			"/images/product-6/main.png",
+			"/images/product-6/1.png",
+			"/images/product-6/2.png",
+			"/images/product-6/3.png"
+		],
+		"art": 100006,
+		"name": "Кирпич 6",
+		"price": 3200,
+		"description": "Кирпич гиперпрессованный цветной. Декоративный фасадный кирпич.",
+		"shortDescription": "Кирпич гиперпрессованный цветной.",
+		"catalogId": 1,
+		"stock": {
+			"Назрань-1": true,
+			"Назрань-2": true,
+			"Карабулак": true,
+			"Магас": true
+		}
+	},
+	{
+		"id": 7,
+		"images": [
+			"/images/product-7/main.png",
+			"/images/product-7/1.png",
+			"/images/product-7/2.png",
+			"/images/product-7/3.png"
+		],
+		"art": 100007,
+		"name": "Кирпич 7",
+		"price": 980,
+		"description": "Кирпич силикатный белый. Высокая прочность для перегородок.",
+		"shortDescription": "Кирпич силикатный белый.",
+		"catalogId": 1,
+		"stock": {
+			"Назрань-1": true,
+			"Назрань-2": false,
+			"Карабулак": false,
+			"Магас": false
+		}
+	},
+	{
+		"id": 8,
+		"images": [
+			"/images/product-1/main.png",
+			"/images/product-1/1.png",
+			"/images/product-1/2.png",
+			"/images/product-1/3.png"
+		],
+		"art": 100008,
+		"name": "Кирпич 8",
+		"price": 2100,
+		"description": "Кирпич огнеупорный шамотный. Для кладки печей и каминов.",
+		"shortDescription": "Кирпич огнеупорный шамотный.",
+		"catalogId": 1,
+		"stock": {
+			"Назрань-1": false,
+			"Назрань-2": true,
+			"Карабулак": true,
+			"Магас": true
+		}
+	},
+	{
+		"id": 9,
+		"images": [
+			"/images/product-2/main.png",
+			"/images/product-2/1.png",
+			"/images/product-2/2.png",
+			"/images/product-2/3.png"
+		],
+		"art": 100009,
+		"name": "Кирпич 9",
+		"price": 920,
+		"description": "Кирпич рядовой одинарный. Базовый вариант для строительства.",
+		"shortDescription": "Кирпич рядовой одинарный.",
+		"catalogId": 1,
+		"stock": {
+			"Назрань-1": true,
+			"Назрань-2": true,
+			"Карабулак": false,
+			"Магас": false
+		}
+	},
+	{
+		"id": 10,
+		"images": [
+			"/images/product-3/main.png",
+			"/images/product-3/1.png",
+			"/images/product-3/2.png",
+			"/images/product-3/3.png"
+		],
+		"art": 100010,
+		"name": "Кирпич 10",
+		"price": 2780,
+		"description": "Кирпич облицовочный фактурный. Декоративная поверхность.",
+		"shortDescription": "Кирпич облицовочный фактурный.",
+		"catalogId": 1,
+		"stock": {
+			"Назрань-1": true,
+			"Назрань-2": true,
+			"Карабулак": true,
+			"Магас": true
+		}
+	},
+	{
+		"id": 11,
+		"images": [
+			"/images/product-4/main.png",
+			"/images/product-4/1.png",
+			"/images/product-4/2.png",
+			"/images/product-4/3.png"
+		],
+		"art": 200001,
+		"name": "Выходная дверь 1",
+		"price": 15990,
+		"description": "Выходная металлическая дверь с терморазрывом. Утеплённая конструкция.",
+		"shortDescription": "Выходная металлическая дверь с терморазрывом.",
+		"catalogId": 2,
+		"stock": {
+			"Назрань-1": true,
+			"Назрань-2": true,
+			"Карабулак": false,
+			"Магас": false
+		}
+	},
+	{
+		"id": 12,
+		"images": [
+			"/images/product-5/main.png",
+			"/images/product-5/1.png",
+			"/images/product-5/2.png",
+			"/images/product-5/3.png"
+		],
+		"art": 200002,
+		"name": "Выходная дверь 2",
+		"price": 22400,
+		"description": "Выходная дверь повышенной прочности. Двухконтурное уплотнение.",
+		"shortDescription": "Выходная дверь повышенной прочности.",
+		"catalogId": 2,
+		"stock": {
+			"Назрань-1": false,
+			"Назрань-2": true,
+			"Карабулак": true,
+			"Магас": false
+		}
+	},
+	{
+		"id": 13,
+		"images": [
+			"/images/product-6/main.png",
+			"/images/product-6/1.png",
+			"/images/product-6/2.png",
+			"/images/product-6/3.png"
+		],
+		"art": 200003,
+		"name": "Выходная дверь 3",
+		"price": 11800,
+		"description": "Выходная дверь эконом-класса. Стальной лист 1,5 мм.",
+		"shortDescription": "Выходная дверь эконом-класса.",
+		"catalogId": 2,
+		"stock": {
+			"Назрань-1": true,
+			"Назрань-2": false,
+			"Карабулак": false,
+			"Магас": true
+		}
+	},
+	{
+		"id": 14,
+		"images": [
+			"/images/product-7/main.png",
+			"/images/product-7/1.png",
+			"/images/product-7/2.png",
+			"/images/product-7/3.png"
+		],
+		"art": 200004,
+		"name": "Выходная дверь 4",
+		"price": 28900,
+		"description": "Выходная дверь с бронированным покрытием. Класс взломостойкости RC3.",
+		"shortDescription": "Выходная дверь бронированная RC3.",
+		"catalogId": 2,
+		"stock": {
+			"Назрань-1": true,
+			"Назрань-2": true,
+			"Карабулак": true,
+			"Магас": false
+		}
+	},
+	{
+		"id": 15,
+		"images": [
+			"/images/product-1/main.png",
+			"/images/product-1/1.png",
+			"/images/product-1/2.png",
+			"/images/product-1/3.png"
+		],
+		"art": 200005,
+		"name": "Выходная дверь 5",
+		"price": 18700,
+		"description": "Выходная дверь с панелями МДФ. Внутренняя отделка.",
+		"shortDescription": "Выходная дверь с панелями МДФ.",
+		"catalogId": 2,
+		"stock": {
+			"Назрань-1": false,
+			"Назрань-2": false,
+			"Карабулак": true,
+			"Магас": true
+		}
+	},
+	{
+		"id": 16,
+		"images": [
+			"/images/product-2/main.png",
+			"/images/product-2/1.png",
+			"/images/product-2/2.png",
+			"/images/product-2/3.png"
+		],
+		"art": 200006,
+		"name": "Выходная дверь 6",
+		"price": 14200,
+		"description": "Выходная дверь с порошковой окраской. Размер 210×90 см.",
+		"shortDescription": "Выходная дверь 210×90 см.",
+		"catalogId": 2,
+		"stock": {
+			"Назрань-1": true,
+			"Назрань-2": true,
+			"Карабулак": true,
+			"Магас": true
+		}
+	},
+	{
+		"id": 17,
+		"images": [
+			"/images/product-3/main.png",
+			"/images/product-3/1.png",
+			"/images/product-3/2.png",
+			"/images/product-3/3.png"
+		],
+		"art": 200007,
+		"name": "Выходная дверь 7",
+		"price": 25600,
+		"description": "Выходная дверь с остеклением. Декоративная вставка.",
+		"shortDescription": "Выходная дверь с остеклением.",
+		"catalogId": 2,
+		"stock": {
+			"Назрань-1": true,
+			"Назрань-2": false,
+			"Карабулак": false,
+			"Магас": false
+		}
+	},
+	{
+		"id": 18,
+		"images": [
+			"/images/product-4/main.png",
+			"/images/product-4/1.png",
+			"/images/product-4/2.png",
+			"/images/product-4/3.png"
+		],
+		"art": 200008,
+		"name": "Выходная дверь 8",
+		"price": 9500,
+		"description": "Выходная дверь базовая. Для дачи и подсобных помещений.",
+		"shortDescription": "Выходная дверь базовая.",
+		"catalogId": 2,
+		"stock": {
+			"Назрань-1": false,
+			"Назрань-2": true,
+			"Карабулак": true,
+			"Магас": true
+		}
+	},
+	{
+		"id": 19,
+		"images": [
+			"/images/product-5/main.png",
+			"/images/product-5/1.png",
+			"/images/product-5/2.png",
+			"/images/product-5/3.png"
+		],
+		"art": 200009,
+		"name": "Выходная дверь 9",
+		"price": 31200,
+		"description": "Выходная дверь премиум. Финская технология.",
+		"shortDescription": "Выходная дверь премиум.",
+		"catalogId": 2,
+		"stock": {
+			"Назрань-1": true,
+			"Назрань-2": true,
+			"Карабулак": false,
+			"Магас": true
+		}
+	},
+	{
+		"id": 20,
+		"images": [
+			"/images/product-6/main.png",
+			"/images/product-6/1.png",
+			"/images/product-6/2.png",
+			"/images/product-6/3.png"
+		],
+		"art": 200010,
+		"name": "Выходная дверь 10",
+		"price": 17800,
+		"description": "Выходная дверь со звукоизоляцией. Толщина полотна 90 мм.",
+		"shortDescription": "Выходная дверь со звукоизоляцией.",
+		"catalogId": 2,
+		"stock": {
+			"Назрань-1": true,
+			"Назрань-2": true,
+			"Карабулак": true,
+			"Магас": false
+		}
+	},
+	{
+		"id": 21,
+		"images": [
+			"/images/product-7/main.png",
+			"/images/product-7/1.png",
+			"/images/product-7/2.png",
+			"/images/product-7/3.png"
+		],
+		"art": 300001,
+		"name": "Керамогранит 1",
+		"price": 1850,
+		"description": "Керамогранит напольный 60×60 см. Высокая износостойкость.",
+		"shortDescription": "Керамогранит напольный 60×60 см.",
+		"catalogId": 3,
+		"stock": {
+			"Назрань-1": true,
+			"Назрань-2": true,
+			"Карабулак": false,
+			"Магас": false
+		}
+	},
+	{
+		"id": 22,
+		"images": [
+			"/images/product-1/main.png",
+			"/images/product-1/1.png",
+			"/images/product-1/2.png",
+			"/images/product-1/3.png"
+		],
+		"art": 300002,
+		"name": "Керамогранит 2",
+		"price": 2400,
+		"description": "Керамогранит для пола с имитацией древесины.",
+		"shortDescription": "Керамогранит под дерево.",
+		"catalogId": 3,
+		"stock": {
+			"Назрань-1": false,
+			"Назрань-2": true,
+			"Карабулак": true,
+			"Магас": false
+		}
+	},
+	{
+		"id": 23,
+		"images": [
+			"/images/product-2/main.png",
+			"/images/product-2/1.png",
+			"/images/product-2/2.png",
+			"/images/product-2/3.png"
+		],
+		"art": 300003,
+		"name": "Керамогранит 3",
+		"price": 1200,
+		"description": "Керамогранит экономичный 30×30 см. Для кухни и прихожей.",
+		"shortDescription": "Керамогранит 30×30 см.",
+		"catalogId": 3,
+		"stock": {
+			"Назрань-1": true,
+			"Назрань-2": false,
+			"Карабулак": false,
+			"Магас": true
+		}
+	},
+	{
+		"id": 24,
+		"images": [
+			"/images/product-3/main.png",
+			"/images/product-3/1.png",
+			"/images/product-3/2.png",
+			"/images/product-3/3.png"
+		],
+		"art": 300004,
+		"name": "Керамогранит 4",
+		"price": 3200,
+		"description": "Керамогранит крупноформатный 120×60 см.",
+		"shortDescription": "Керамогранит 120×60 см.",
+		"catalogId": 3,
+		"stock": {
+			"Назрань-1": true,
+			"Назрань-2": true,
+			"Карабулак": true,
+			"Магас": false
+		}
+	},
+	{
+		"id": 25,
+		"images": [
+			"/images/product-4/main.png",
+			"/images/product-4/1.png",
+			"/images/product-4/2.png",
+			"/images/product-4/3.png"
+		],
+		"art": 300005,
+		"name": "Керамогранит 5",
+		"price": 2100,
+		"description": "Керамогранит с рельефной поверхностью. Антискользящий.",
+		"shortDescription": "Керамогранит антискользящий.",
+		"catalogId": 3,
+		"stock": {
+			"Назрань-1": false,
+			"Назрань-2": false,
+			"Карабулак": true,
+			"Магас": true
+		}
+	},
+	{
+		"id": 26,
+		"images": [
+			"/images/product-5/main.png",
+			"/images/product-5/1.png",
+			"/images/product-5/2.png",
+			"/images/product-5/3.png"
+		],
+		"art": 300006,
+		"name": "Керамогранит 6",
+		"price": 2750,
+		"description": "Керамогранит под мрамор. Роскошный внешний вид.",
+		"shortDescription": "Керамогранит под мрамор.",
+		"catalogId": 3,
+		"stock": {
+			"Назрань-1": true,
+			"Назрань-2": true,
+			"Карабулак": true,
+			"Магас": true
+		}
+	},
+	{
+		"id": 27,
+		"images": [
+			"/images/product-6/main.png",
+			"/images/product-6/1.png",
+			"/images/product-6/2.png",
+			"/images/product-6/3.png"
+		],
+		"art": 300007,
+		"name": "Керамогранит 7",
+		"price": 1580,
+		"description": "Керамогранит для ванной комнаты. Влагойстойкий.",
+		"shortDescription": "Керамогранит для ванной.",
+		"catalogId": 3,
+		"stock": {
+			"Назрань-1": true,
+			"Назрань-2": false,
+			"Карабулак": false,
+			"Магас": false
+		}
+	},
+	{
+		"id": 28,
+		"images": [
+			"/images/product-7/main.png",
+			"/images/product-7/1.png",
+			"/images/product-7/2.png",
+			"/images/product-7/3.png"
+		],
+		"art": 300008,
+		"name": "Керамогранит 8",
+		"price": 3650,
+		"description": "Керамогранит для улицы. Морозостойкий.",
+		"shortDescription": "Керамогранит уличный морозостойкий.",
+		"catalogId": 3,
+		"stock": {
+			"Назрань-1": false,
+			"Назрань-2": true,
+			"Карабулак": true,
+			"Магас": true
+		}
+	},
+	{
+		"id": 29,
+		"images": [
+			"/images/product-1/main.png",
+			"/images/product-1/1.png",
+			"/images/product-1/2.png",
+			"/images/product-1/3.png"
+		],
+		"art": 300009,
+		"name": "Керамогранит 9",
+		"price": 920,
+		"description": "Керамогранит ректифицированный. Точная геометрия.",
+		"shortDescription": "Керамогранит ректифицированный.",
+		"catalogId": 3,
+		"stock": {
+			"Назрань-1": true,
+			"Назрань-2": true,
+			"Карабулак": false,
+			"Магас": false
+		}
+	},
+	{
+		"id": 30,
+		"images": [
+			"/images/product-2/main.png",
+			"/images/product-2/1.png",
+			"/images/product-2/2.png",
+			"/images/product-2/3.png"
+		],
+		"art": 300010,
+		"name": "Керамогранит 10",
+		"price": 1980,
+		"description": "Керамогранит 45×45 см. Универсальный размер.",
+		"shortDescription": "Керамогранит 45×45 см.",
+		"catalogId": 3,
+		"stock": {
+			"Назрань-1": true,
+			"Назрань-2": true,
+			"Карабулак": true,
+			"Магас": true
+		}
+	}
+]

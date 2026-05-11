@@ -1,0 +1,26 @@
+{
+  "name": "vekstroy-nuxt",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "dependencies": {
+    "@nuxt/image": "2.0.0",
+    "@pinia/nuxt": "^0.11.3",
+    "axios": "^1.13.2",
+    "nuxt": "^4.2.1",
+    "pinia": "^3.0.4",
+    "pinia-plugin-persistedstate": "^4.7.1",
+    "vue": "^3.5.25",
+    "vue3-carousel-nuxt": "^1.1.6"
+  },
+  "devDependencies": {
+    "prettier": "^3.7.3",
+    "sass": "^1.94.2"
+  }
+}
